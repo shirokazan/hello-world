@@ -1,2 +1,2 @@
 # hello-world
-My first repository - a test
+This is a demonstation of using commits.
